@@ -32,7 +32,7 @@ h1, h3, h4 {
 
 .cover {
 
-	background:url(image/ocean.jpg) no-repeat center center fixed;
+	background:url('https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=66222693,299852611&fm=21&gp=0.jpg') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
