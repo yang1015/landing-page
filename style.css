@@ -32,7 +32,7 @@ h1, h3, h4 {
 
 .cover {
 
-	background:url('https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=66222693,299852611&fm=21&gp=0.jpg') no-repeat center center fixed;
+	background:url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1489454810&di=4f9ee681002b1bbf938128e7d87c7196&imgtype=jpg&er=1&src=http%3A%2F%2Fdimg04.c-ctrip.com%2Fimages%2Ft1%2Fvacations%2F200000%2F199652%2F751c516612bc44169d9482c4429efe10.jpg') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -55,8 +55,8 @@ h1, h3, h4 {
 	margin-bottom:40px;
 	padding-left:2px;
 	padding-right:2px;
-    align-items: center;
-  	font-family:'Agnes-Bold9475a67181847a';
+        align-items: center;
+  	font-family: 'Open Sans', sans-serif;
    
 }
 
